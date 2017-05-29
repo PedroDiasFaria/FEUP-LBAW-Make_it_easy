@@ -6,7 +6,9 @@ An easy to use platform where users can manage their individual or group project
 In collaboration with:
 
 Rafaela Faria, ei12129@fe.up.pt
+
 Tiago Coelho, ei11012@fe.up.pt
+
 Vítor Araújo, ee07206@fe.up.pt
 
 ===============
